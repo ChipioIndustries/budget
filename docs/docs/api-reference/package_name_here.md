@@ -2,14 +2,14 @@
 sidebar_position: 1
 ---
 
-# PACKAGE_NAME_HERE
+# Budget
 
 A brief description of the class.
 
 ## Constructor
 
 ```lua
-local package_name_here = PACKAGE_NAME_HERE.new()
+local budget = Budget.new()
 ```
 
 ### Parameters
