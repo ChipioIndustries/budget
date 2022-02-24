@@ -4,22 +4,7 @@
 
 # Budget
 
-Budget is a template for creating Roblox package repositories.
-
-## SETTING UP REPOSITORY (REMOVE THIS)
-
-* Copy this repository's contents into a new repository
-* Find and replace all instances of the following terms:
-
-|Term|Replace with|
-|-|-|
-|chipioindustries|your github username|
-|budget|your package name|
-|Budget|your package name as it appears to users and as a Studio instance|
-|package_description_here|your package description|
-|TAGLINE_HERE|your package tagline|
-
-* Copy the contents of your .wally/auth.toml file into a Github secret named "WALLY_AUTH"
+Budget is a simple instance used for request budgets.
 
 ## Installing with Wally
 
